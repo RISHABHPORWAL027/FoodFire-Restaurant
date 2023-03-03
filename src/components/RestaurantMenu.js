@@ -75,7 +75,7 @@ const RestaurantMenu = () => {
                 {item?.cloudinaryImageId ? <img alt='not found' className={'item_img'} src={IMG_CDN_URL + item?.cloudinaryImageId} /> :
                   <img alt='not found' className={'item_img'} src={imageNotFound} />
                 }
-                <Button variant="contained" className={'item_btn'} color="success">Add +</Button>
+                <Button variant="contained" className={'item_btn'} color="success" disabled={item.inStock===0 ? true : false }>Add +</Button>
               </div>
             </div>
           )
