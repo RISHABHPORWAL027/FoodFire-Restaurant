@@ -1,5 +1,6 @@
 .profile_container{
-    width: 700px;
+    max-width: 700px;
+    width:100%;
     background-color: antiquewhite;
     margin: 5rem auto;
     padding-bottom: 2rem;
@@ -13,4 +14,24 @@
 .btn_icon{
     font-size: 16px;
     margin-left: 16px;
+}
+.gridClass{
+    /* margin:2rem;
+    padding:22px */
+    padding-left: 5rem;
+}
+.css-a5rdam-MuiGrid-root{
+    width:100% !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .profile_container{
+        width: auto;
+        background-color: antiquewhite;
+        margin:10px;
+        padding-bottom: 2rem;
+    }
+    .gridClass{
+        margin:0px;
+    }
 }

@@ -18,9 +18,9 @@ const Profile = () => {
         <h1>Profile</h1>
         <Avatar sx={{ width: 156, height: 156 }} alt="Remy Sharp" src={profile_img} />
       </div>
-      <div>
-        <Grid container spacing={1} style={{ margin: '2rem' }}>
-          <Grid item xs={6}>
+      <div style={{marginTop:'2rem'}}>
+        <Grid container spacing={1} className={'gridClass'}>
+          <Grid item lg={6} sm={6} xs={12}>
             <TextField
               id="standard-size-normal"
               label="First Name"
@@ -31,7 +31,7 @@ const Profile = () => {
             />
           </Grid>
 
-          <Grid item xs={6}>
+          <Grid item lg={6} sm={6} xs={12} >
             <TextField
               id="standard-size-normal"
               label="Last Name"
@@ -42,10 +42,8 @@ const Profile = () => {
             />
           </Grid>
 
-        </Grid>
-        <Grid container spacing={1} style={{ margin: '2rem' }}>
 
-          <Grid item xs={6}>
+          <Grid item lg={6} sm={6} xs={12}>
             <TextField
               id="standard-size-normal"
               label="Number"
@@ -56,7 +54,7 @@ const Profile = () => {
             />
           </Grid>
 
-          <Grid item xs={6}>
+          <Grid item lg={6} sm={6} xs={12}>
             <TextField
               id="standard-size-normal"
               label="Email"
@@ -66,16 +64,15 @@ const Profile = () => {
               disabled
             />
           </Grid>
-        </Grid>
-        <Grid container spacing={1} style={{ margin: '2rem' }}>
-        <Grid item xs={3}></Grid>
-          <Grid item xs={3}>
-            <Button variant="outlined" disabled>Edit<EditIcon className={'btn_icon'}/></Button>
+
+          <Grid item lg={3} xs={0} sm={3}></Grid>
+          <Grid item lg={3} xs={5} sm={3} >
+            <Button variant="outlined" disabled>Edit<EditIcon className={'btn_icon'} /></Button>
           </Grid>
-          <Grid item xs={3}>
-            <Button variant="outlined" disabled>Save<TurnedInIcon className={'btn_icon'}/></Button>
+          <Grid item lg={3} xs={5} sm={3}>
+            <Button variant="outlined" disabled>Save<TurnedInIcon className={'btn_icon'} /></Button>
           </Grid>
-          <Grid item xs={3}></Grid>
+          <Grid item lg={3} xs={0} sm={3}></Grid>
         </Grid>
       </div>
     </div>
