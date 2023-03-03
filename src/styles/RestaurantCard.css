@@ -1,0 +1,56 @@
+.restaurant_card{
+    min-width: 200px;
+    min-height: 250px !important;
+    margin: 2rem; display:flex;
+    flex-direction:column; 
+}
+.restaurant_cardSimmer{
+    width: 250px !important; 
+    height: 287px;
+    margin: 2rem;
+    display:flex;
+    flex-direction:column; 
+}
+
+.card_Action{
+    display:flex;
+    justify-content:space-between;
+    margin-top:auto;
+}
+.restaurant_childAction{
+    padding: 0px 5px;
+    border-radius: 38px;
+    display: flex; 
+}
+.star_icon{
+    margin: auto; 
+    font-size: 1rem; 
+}
+.avg_rating{
+    font-size:14px;
+    margin: auto;
+}
+
+@media only screen and (max-width: 767px) {
+    .restaurant_cardSimmer{
+        width: 300px !important; 
+        height: 287px;
+        margin: 2rem 3rem;
+        display:flex;
+        flex-direction:column; 
+    }
+        /* .avg_rating {
+            font-size: 12px;
+            margin: auto;
+        } */
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .restaurant_cardSimmer{
+        width: 220px !important; 
+        height: 287px;
+        margin: 2rem;
+        display:flex;
+        flex-direction:column; 
+    }
+}

@@ -1,0 +1,16 @@
+.profile_container{
+    width: 700px;
+    background-color: antiquewhite;
+    margin: 5rem auto;
+    padding-bottom: 2rem;
+}
+
+.profileContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn_icon{
+    font-size: 16px;
+    margin-left: 16px;
+}

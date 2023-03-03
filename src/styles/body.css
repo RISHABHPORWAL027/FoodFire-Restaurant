@@ -1,0 +1,28 @@
+.restaurant_containar {
+    margin: 5rem;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
+}
+
+.errorPage{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+
+@media only screen and (max-width: 767px) {
+    .restaurant_containar {
+        margin: 0px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .restaurant_containar {
+        margin: 0px;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

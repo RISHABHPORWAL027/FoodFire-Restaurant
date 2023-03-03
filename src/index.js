@@ -1,17 +1,67 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Outlet
+} from "react-router-dom";
+import { store } from '../src/redux/store/store'
+import { Provider } from 'react-redux'
+import { GoogleOAuthProvider } from "@react-oauth/google";
+import { GoogleLogin } from '@react-oauth/google';
+import {REACT_APP_CLIENT_ID} from './constants';
+
+
+// import Body from './components/Body';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import RestaurantMenu from './components/RestaurantMenu';
+import Error from './components/Error';
+import Profile from './components/Profile';
+
+const LazyBody = React.lazy(() => import('./components/Body'));
+
+const AppLayout = () => {
+  return (
+    <>
+      <Header />
+      <Outlet />
+      <Footer />
+    </>
+  )
+}
+
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <AppLayout />,
+    errorElement: <Error />,
+    children: [
+      {
+        path: '/',
+        element: <React.Suspense><LazyBody /></React.Suspense>
+      },
+      {
+        path: 'restaurant/:resId',
+        element: <RestaurantMenu />
+      },
+      {
+        path: 'profile',
+        element: <Profile />
+      }
+    ]
+  },
+]);
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <GoogleOAuthProvider clientId={REACT_APP_CLIENT_ID}>
+    <Provider store={store}>
+      <RouterProvider router={router} />
+    </Provider>
+  </GoogleOAuthProvider>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
