@@ -9,7 +9,7 @@ import {
 import { store } from '../src/redux/store/store'
 import { Provider } from 'react-redux'
 import { GoogleOAuthProvider } from "@react-oauth/google";
-import { GoogleLogin } from '@react-oauth/google';
+
 import {REACT_APP_CLIENT_ID} from './constants';
 
 

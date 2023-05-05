@@ -59,9 +59,9 @@ export const SimmerMenu = () => {
           </div>
         </div>
       </div>
-      {shimmer_card_unit.map(() => {
+      {shimmer_card_unit.map((res) => {
         return (
-          <div className={'item_container'}>
+          <div className={'item_container'} key={res}>
             <div className={'item_content'}>
               <h4 className={'item_h3'}><Skeleton /></h4>
               <h5 className={'item_h5'}><Skeleton /></h5>

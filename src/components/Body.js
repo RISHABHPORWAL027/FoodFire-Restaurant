@@ -5,7 +5,7 @@ import { swiggy_api_URL } from '../constants';
 //Custom Components
 import RestaurantCard from './RestaurantCard';
 import Simmer from './Simmer';
-
+import data from '../response.json';
 // CSS files import
 import '../styles/body.css';
 
@@ -18,9 +18,29 @@ import { getAllRestaurants,getInitalRestaurantsData } from '../redux/slices/rest
 
 
 const Body = () => {
+    console.log("response Data-", data)
     const dispatch = useDispatch();
     const DisplayRestaurants = useSelector(state=> state.restaurant.restaurant);
     const isLoaderValue = useSelector(state=> state.restaurant.isLoader);
+
+
+    async function getRestaurants() {
+        // console.log('data',data)
+        dispatch(getAllRestaurants(data))
+        dispatch(getInitalRestaurantsData(data))
+        // handle the error using try... catch
+        // debugger
+        // try {
+        //     const response = await fetch(swiggy_api_URL);
+        //     const json = await response.json();
+        //     dispatch(getAllRestaurants(json?.data?.cards[2]?.data?.data?.cards))
+        //     dispatch(getInitalRestaurantsData(json?.data?.cards[2]?.data?.data?.cards))
+            
+
+        // } catch (error) {
+        //     console.log(error);
+        // }
+    }
 
 
     useEffect(() => {
@@ -32,19 +52,7 @@ const Body = () => {
     if (!DisplayRestaurants) return null;
 
     // async function getRestaurant to fetch Swiggy API data
-    async function getRestaurants() {
-        // handle the error using try... catch
-        try {
-            const response = await fetch(swiggy_api_URL);
-            const json = await response.json();
-            dispatch(getAllRestaurants(json?.data?.cards[2]?.data?.data?.cards))
-            dispatch(getInitalRestaurantsData(json?.data?.cards[2]?.data?.data?.cards))
-
-        } catch (error) {
-            console.log(error);
-        }
-    }
-
+  
 
     return (
         <div className={'restaurant_containar'}>

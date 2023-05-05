@@ -64,6 +64,27 @@
     justify-content: center;
 }
 
+.plusminusBtn{
+    background-color: green !important;
+    width: fit-content !important;
+    padding: 10px !important;
+    margin-top: auto !important;
+}
+
+.btnParent{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:0.5rem
+}
+.inputChild{
+    margin-top: 10px;
+}
+
+.MuiSvgIcon-fontSizeMedium{
+    font-size: small !important;
+}
+
+
 @media only screen and (max-width: 767px) {
 
         .menu_Container{

@@ -1,0 +1,2120 @@
+[
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "19450",
+        "name": "Hungry Tide",
+        "uuid": "ba8facad-2ae2-45e6-b1e4-7acb59f96201",
+        "city": "7",
+        "area": "Hindustan Park",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "z0be4od0iubqbllckdpj",
+        "cuisines": [
+          "Chinese",
+          "Continental",
+          "Snacks"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 28,
+        "minDeliveryTime": 28,
+        "maxDeliveryTime": 28,
+        "slaString": "28 MINS",
+        "lastMileTravel": 2.700000047683716,
+        "slugs": {
+          "restaurant": "hungry-tide-hindustan-park-central-kolkata",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "37C, Hindustan Park Road, Hindustan Park, Kolkata",
+        "locality": "Hindustan Park",
+        "parentId": 2271,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "10% off",
+          "shortDescriptionList": [
+            {
+              "meta": "10% off | Use PARTY",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off | Use code PARTY",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "10% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use PARTY",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off | Use code PARTY",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6608567~p=1~eid=00000187-e64a-f5ce-2511-5d6e00e40159",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.7 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "19450",
+          "deliveryTime": 28,
+          "minDeliveryTime": 28,
+          "maxDeliveryTime": 28,
+          "lastMileTravel": 2.700000047683716,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.5",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "216675",
+        "name": "Burger King",
+        "uuid": "ba92a169-10fd-4d90-be2f-7cc76607b99e",
+        "city": "7",
+        "area": "East Kolkata Township",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "28fb13049b4e55297bb3f703cde63c35",
+        "cuisines": [
+          "Burgers",
+          "American"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "slaString": "26 MINS",
+        "lastMileTravel": 1.2999999523162842,
+        "slugs": {
+          "restaurant": "burger-king-acropolis-mall-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "Burger King India Pvt Ltd Counter No T- 004, Food Court, 3rd Floor, Acropolis Mall, 1858/1, Rajdanga Main Road, Kolkata 700107",
+        "locality": "Acropolis Mall",
+        "parentId": 166,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "Get every item under 129",
+          "shortDescriptionList": [
+            {
+              "meta": "Get every item under 129",
+              "discountType": "FinalPrice",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "Get every item under 129",
+              "discountType": "FinalPrice",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "",
+          "shortDescriptionList": [
+            {
+              "meta": "",
+              "discountType": "FinalPrice",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "Get every item under 129",
+              "discountType": "FinalPrice",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1.2 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "216675",
+          "deliveryTime": 26,
+          "minDeliveryTime": 26,
+          "maxDeliveryTime": 26,
+          "lastMileTravel": 1.2999999523162842,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "136996",
+        "name": "Welcome Haji Biryani",
+        "uuid": "3d54507d-7a9b-4f9a-99cc-9a30e7dc9794",
+        "city": "7",
+        "area": "Kasba",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "hr4vl25ngv7mabs6ubh9",
+        "cuisines": [
+          "Biryani"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 16,
+        "minDeliveryTime": 16,
+        "maxDeliveryTime": 16,
+        "slaString": "16 MINS",
+        "lastMileTravel": 0.800000011920929,
+        "slugs": {
+          "restaurant": "welcome-haji-biryani-kasba-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "189/5,Kasba,Kolkata-42",
+        "locality": "Ruby Area",
+        "parentId": 225558,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "10% off",
+          "shortDescriptionList": [
+            {
+              "meta": "10% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "10% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "0.8 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "136996",
+          "deliveryTime": 16,
+          "minDeliveryTime": 16,
+          "maxDeliveryTime": 16,
+          "lastMileTravel": 0.800000011920929,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 500,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "3031",
+        "name": "Sharma Dhaba",
+        "uuid": "461b130a-1bcc-491e-8fc8-26393d0e82ac",
+        "city": "7",
+        "area": "Ballygunge",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "dbqgbvrs2cznuxf67w8h",
+        "cuisines": [
+          "North Indian",
+          "Tandoor",
+          "Biryani",
+          "Kebabs",
+          "Snacks",
+          "Chinese"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 33,
+        "minDeliveryTime": 33,
+        "maxDeliveryTime": 33,
+        "slaString": "33 MINS",
+        "lastMileTravel": 4.300000190734863,
+        "slugs": {
+          "restaurant": "sharma-dhaba-ballygunge-prince-anwar-shah-road-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "17/1B, Ballygunge Circular Road, Near Ballygunge Maidan Camp, Ballygunge, Kolkata 700019 India",
+        "locality": "Ballygunge Circular Road, Ballygunge Maidan Camp, Ballygunge",
+        "parentId": 13766,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "40% off",
+          "shortDescriptionList": [
+            {
+              "meta": "40% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "40% off up to ₹80 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "40% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "40% off up to ₹80 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6608547~p=4~eid=00000187-e64a-f5ce-2511-5d6f00e4042f",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.3 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "3031",
+          "deliveryTime": 33,
+          "minDeliveryTime": 33,
+          "maxDeliveryTime": 33,
+          "lastMileTravel": 4.300000190734863,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.1",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "534791",
+        "name": "The 99 Thali Shop by Chaigram",
+        "uuid": "8bbd3a58-ab7e-4b87-bfb6-ae3e6ef1d0d2",
+        "city": "7",
+        "area": "Ruby Area",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "vie1bmdoru0pz0yljilr",
+        "cuisines": [
+          "Thalis",
+          "Bengali",
+          "Indian",
+          "Chinese"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "slaString": "26 MINS",
+        "lastMileTravel": 2.0999999046325684,
+        "slugs": {
+          "restaurant": "the-99-thali-shop-by-chaigram-ruby-area-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "FD 22, Rajdanga Main Road, East Kolkata Twp, Kolkata-700107",
+        "locality": "Rajdanga Main Road",
+        "parentId": 284836,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "40% off",
+          "shortDescriptionList": [
+            {
+              "meta": "40% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "40% off up to ₹80 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "40% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "40% off up to ₹80 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "534791",
+          "deliveryTime": 26,
+          "minDeliveryTime": 26,
+          "maxDeliveryTime": 26,
+          "lastMileTravel": 2.0999999046325684,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "3.6",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "444357",
+        "name": "Wah Thali - Meals & Combos",
+        "uuid": "e7b3b9cc-b1e5-45ed-85ee-ab748d379ef1",
+        "city": "7",
+        "area": "KASBA",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "xc5bzfiuekzmwed3wznw",
+        "cuisines": [
+          "Chinese",
+          "North Indian",
+          "Thalis"
+        ],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 20,
+        "minDeliveryTime": 20,
+        "maxDeliveryTime": 20,
+        "slaString": "20 MINS",
+        "lastMileTravel": 1.100000023841858,
+        "slugs": {
+          "restaurant": "wah-thali-ruby-area-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "248/1, RAJDANGA MAIN ROAD, GROUND FLOOR, NABAPALLI, P.S- KASBA, KOLKATA MUNICIPAL CORPORATION, Kolkata, West Bengal-700107",
+        "locality": "Ruby Area",
+        "parentId": 267460,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "30% off",
+          "shortDescriptionList": [
+            {
+              "meta": "30% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "30% off up to ₹75 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "30% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "30% off up to ₹75 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": "Closes soon"
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1.1 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "444357",
+          "deliveryTime": 20,
+          "minDeliveryTime": 20,
+          "maxDeliveryTime": 20,
+          "lastMileTravel": 1.100000023841858,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "8200",
+        "name": "Fiesta",
+        "uuid": "8aca3418-b0b9-4b73-9bc2-5535c15dd57d",
+        "city": "7",
+        "area": "Santoshpur",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "yxpderjrsqdlj2cgkhus",
+        "cuisines": [
+          "Chinese",
+          "Thai"
+        ],
+        "tags": [],
+        "costForTwo": 70000,
+        "costForTwoString": "₹700 FOR TWO",
+        "deliveryTime": 29,
+        "minDeliveryTime": 29,
+        "maxDeliveryTime": 29,
+        "slaString": "29 MINS",
+        "lastMileTravel": 3,
+        "slugs": {
+          "restaurant": "fiesta-santoshpur-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "438, SantoshpurAvenue, Santoshpur, Kolkata700075",
+        "locality": "Santoshpuravenue",
+        "parentId": 3427,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "50% off",
+          "shortDescriptionList": [
+            {
+              "meta": "50% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "50% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3700,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3700,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3700",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6608611~p=7~eid=00000187-e64a-f5ce-2511-5d7000e40734",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "3 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "8200",
+          "deliveryTime": 29,
+          "minDeliveryTime": 29,
+          "maxDeliveryTime": 29,
+          "lastMileTravel": 3,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.5",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "592554",
+        "name": "Pocket Meal",
+        "uuid": "b2af8dc4-567e-4c08-bc60-8381571daee3",
+        "city": "7",
+        "area": "Ruby Area",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "973dc70b8fe7b449caaf99a8da7c6777",
+        "cuisines": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Fast Food",
+          "Beverages"
+        ],
+        "tags": [],
+        "costForTwo": 40000,
+        "costForTwoString": "₹400 FOR TWO",
+        "deliveryTime": 21,
+        "minDeliveryTime": 21,
+        "maxDeliveryTime": 21,
+        "slaString": "21 MINS",
+        "lastMileTravel": 0.6000000238418579,
+        "slugs": {
+          "restaurant": "pocketmeal-ruby-area-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "Ground Floor, 14/1, R. K. Chatterjee road, P.S.- Kasba, KOLKATA MUNICIPAL CORPORATION, Kolkata, West Bengal-700042",
+        "locality": "R K Chatterjee Road",
+        "parentId": 159547,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "50% off",
+          "shortDescriptionList": [
+            {
+              "meta": "50% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "50% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "0.6 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "592554",
+          "deliveryTime": 21,
+          "minDeliveryTime": 21,
+          "maxDeliveryTime": 21,
+          "lastMileTravel": 0.6000000238418579,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "130766",
+        "name": "Sharma Snacks",
+        "uuid": "05728035-8c19-4c34-9b31-b4c47e4723cb",
+        "city": "7",
+        "area": "Ruby Area",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "wvceefozypsni5qnltq0",
+        "cuisines": [
+          "Beverages",
+          "Chaat"
+        ],
+        "tags": [],
+        "costForTwo": 10000,
+        "costForTwoString": "₹100 FOR TWO",
+        "deliveryTime": 22,
+        "minDeliveryTime": 22,
+        "maxDeliveryTime": 22,
+        "slaString": "22 MINS",
+        "lastMileTravel": 0.4000000059604645,
+        "slugs": {
+          "restaurant": "sharma-snacks-bosepukur-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "39/1 Bose Pukur Road, Kolkata-700042",
+        "locality": "Ruby",
+        "parentId": 7719,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "30% off",
+          "shortDescriptionList": [
+            {
+              "meta": "30% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "30% off up to ₹75 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "30% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "30% off up to ₹75 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "0.4 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "130766",
+          "deliveryTime": 22,
+          "minDeliveryTime": 22,
+          "maxDeliveryTime": 22,
+          "lastMileTravel": 0.4000000059604645,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "385752",
+        "name": "WICH CRAFT",
+        "uuid": "afdde62e-c3ba-47d1-9579-51ad97605051",
+        "city": "7",
+        "area": "Jadavpur",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "t2ycivim2nsz7oi484ac",
+        "cuisines": [
+          "American",
+          "Continental",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 32,
+        "minDeliveryTime": 32,
+        "maxDeliveryTime": 32,
+        "slaString": "32 MINS",
+        "lastMileTravel": 4.199999809265137,
+        "slugs": {
+          "restaurant": "wich-craft-jadavpur-jadavpur",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "130/8 Prince Ghulam Hossain Shah Road, Kolkata - 700032",
+        "locality": "Prince Golam Hossain Shah Road",
+        "parentId": 225967,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "FLAT150 off",
+          "shortDescriptionList": [
+            {
+              "meta": "FLAT150 off | Use FLATDEAL",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "FLAT150 off | Use FLATDEAL",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "₹150 OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use FLATDEAL",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "FLAT150 off | Use FLATDEAL",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6608681~p=10~eid=00000187-e64a-f5ce-2511-5d7100e40a15",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.1 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "385752",
+          "deliveryTime": 32,
+          "minDeliveryTime": 32,
+          "maxDeliveryTime": 32,
+          "lastMileTravel": 4.199999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.2",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "40430",
+        "name": "Sananda Biriyani",
+        "uuid": "e5a0bbbc-d6d1-4fff-971c-51f490aeb367",
+        "city": "7",
+        "area": "Haltu",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "chc3czdsvxxqblpqevdh",
+        "cuisines": [
+          "Mughlai",
+          "Biryani"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 18,
+        "minDeliveryTime": 18,
+        "maxDeliveryTime": 18,
+        "slaString": "18 MINS",
+        "lastMileTravel": 2.700000047683716,
+        "slugs": {
+          "restaurant": "sananda-biriyani-garfa-santoshpur",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "153, garfa main road.kolkata- 700075",
+        "locality": "Near Popular Medical hall",
+        "parentId": 176843,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "10% off",
+          "shortDescriptionList": [
+            {
+              "meta": "10% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "10% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.7 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "40430",
+          "deliveryTime": 18,
+          "minDeliveryTime": 18,
+          "maxDeliveryTime": 18,
+          "lastMileTravel": 2.700000047683716,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "50461",
+        "name": "Shimla Biryani - Topsia",
+        "uuid": "6c9cc160-d5b7-42ec-badd-cf742595c8b1",
+        "city": "7",
+        "area": "Topsia",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "lv5wjgsb3rqdgi8zpwzi",
+        "cuisines": [
+          "Chinese",
+          "Indian",
+          "Biryani"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 25,
+        "minDeliveryTime": 25,
+        "maxDeliveryTime": 25,
+        "slaString": "25 MINS",
+        "lastMileTravel": 2.5999999046325684,
+        "slugs": {
+          "restaurant": "shimla-biryani-topsia-tangra",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "11/1, Topsia Road (South), Topsia, Kolkata",
+        "locality": "Topisa",
+        "parentId": 5568,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "15% off",
+          "shortDescriptionList": [
+            {
+              "meta": "15% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "15% off up to ₹45 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "15% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "15% off up to ₹45 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.5 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "50461",
+          "deliveryTime": 25,
+          "minDeliveryTime": 25,
+          "maxDeliveryTime": 25,
+          "lastMileTravel": 2.5999999046325684,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "86842",
+        "name": "Calcutta Pi",
+        "uuid": "161c6c74-4084-425d-8c20-89879c679947",
+        "city": "7",
+        "area": "Jodhpur Park",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "c1ygaxznu2l3kkv4dw86",
+        "cuisines": [
+          "Bengali",
+          "Indian",
+          "Snacks"
+        ],
+        "tags": [],
+        "costForTwo": 50000,
+        "costForTwoString": "₹500 FOR TWO",
+        "deliveryTime": 35,
+        "minDeliveryTime": 35,
+        "maxDeliveryTime": 35,
+        "slaString": "35 MINS",
+        "lastMileTravel": 3,
+        "slugs": {
+          "restaurant": "calcutta-pi-jodhpur-park-jadavpur",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "390A, Jodhpur Park, Kolkata",
+        "locality": "Jodhpur Park",
+        "parentId": 55485,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "10% off",
+          "shortDescriptionList": [
+            {
+              "meta": "10% off | Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "10% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "10% off up to ₹40 | Use code TRYNEW",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3700,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3700,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3700",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6608223~p=13~eid=00000187-e64a-f5ce-2511-5d7200e40d2a",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "3 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "86842",
+          "deliveryTime": 35,
+          "minDeliveryTime": 35,
+          "maxDeliveryTime": 35,
+          "lastMileTravel": 3,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.5",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "13927",
+        "name": "Wow! Momo",
+        "uuid": "bb0bfcac-a07e-439b-a003-92645c26ee29",
+        "city": "7",
+        "area": "Commercial Building",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "90ac3da2963978f866177263fba805a7",
+        "cuisines": [
+          "Tibetan",
+          "Healthy Food",
+          "Asian",
+          "Chinese",
+          "Snacks",
+          "Continental",
+          "Desserts",
+          "Beverages"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 20,
+        "minDeliveryTime": 20,
+        "maxDeliveryTime": 20,
+        "slaString": "20 MINS",
+        "lastMileTravel": 0.8999999761581421,
+        "slugs": {
+          "restaurant": "wow-momo-kasba-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "P32A, Bosepukur Road, Kasba, Kolkata",
+        "locality": "Kasba",
+        "parentId": 1776,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "50% off",
+          "shortDescriptionList": [
+            {
+              "meta": "50% off | Use SPECIALS",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 on select items | Use code SPECIALS",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "50% OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use SPECIALS",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "50% off up to ₹100 on select items | Use code SPECIALS",
+              "discountType": "Percentage",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "0.8 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "13927",
+          "deliveryTime": 20,
+          "minDeliveryTime": 20,
+          "maxDeliveryTime": 20,
+          "lastMileTravel": 0.8999999761581421,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.4",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "77719",
+        "name": "The Biryani Inc.",
+        "uuid": "0b4eccc0-38de-4023-b4d9-306b6ff504cb",
+        "city": "7",
+        "area": "Kasba",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "buxybcautka9aiv4t8dt",
+        "cuisines": [
+          "Biryani",
+          "Mughlai",
+          "Kebabs",
+          "North Indian"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 1.2000000476837158,
+        "slugs": {
+          "restaurant": "the-biryani-inc-kasba-ruby-area",
+          "city": "kolkata"
+        },
+        "cityState": "7",
+        "address": "15 Swinhoe Lane, Kasba, Kolkata",
+        "locality": "Near Ballygunge Station",
+        "parentId": 7461,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+          "header": "Flat ₹125 off",
+          "shortDescriptionList": [
+            {
+              "meta": "Flat ₹125 off on orders above ₹249",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+          "header": "₹125 OFF",
+          "shortDescriptionList": [
+            {
+              "meta": "Use MATCHDEAL125",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "descriptionList": [
+            {
+              "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+              "discountType": "Flat",
+              "operationType": "RESTAURANT"
+            }
+          ],
+          "subHeader": "",
+          "headerType": 0,
+          "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1.2 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "77719",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 1.2000000476837158,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    }
+  ]
